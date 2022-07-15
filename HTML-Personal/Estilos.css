@@ -1,5 +1,13 @@
+div{
+    background-color: #0078AA;
+    text-align: center;
+}
+
 body{
+    margin: 0;
+    background-color: #3AB4F2;
+}
 
-    background-color: blue;
-
+h1{
+    margin-top: 0;
 }
